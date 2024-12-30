@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title=DEPORTES tvg-id="DAZN", DAZN LaLiga Multiaudio acestream://4cd02f88f14354b5996823413a59a1de0f
-#EXTINF:-1 group-title=DEPORTES tvg-id="DAZN", DAZN LaLiga 720p acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 group-title=DEPORTES tvg-id="DAZN", DAZN LaLiga Multiaudio 
+acestream://4cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 group-title=DEPORTES tvg-id="DAZN", DAZN LaLiga 720p 
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:-1 group-title=DEPORTES tvg-id="DAZN", DAZN LaLiga 2 1080 MultiAudio acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 group-title=DEPORTES tvg-id="DAZN", DAZN LaLiga 2 720 MultiAudio acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 group-title=DEPORTES tvg-id="DAZN", DAZN 1 1080 acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
@@ -9,4 +11,5 @@
 #EXTINF:-1 group-title=DEPORTES tvg-id="DAZN", DAZN F1 1080 acestream://d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1 group-title=DEPORTES tvg-id="DAZN", DAZN F1 1080 acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 #EXTINF:-1 group-title=DEPORTES tvg-id="DAZN", DAZN F1 1080 acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
-#EXTINF:-1 group-title="F1" tvg-id="DAZN", DAZN F1 720 acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 group-title="F1" tvg-id="DAZN", DAZN F1 720 
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
