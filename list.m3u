@@ -72,12 +72,29 @@ acestream://a12a16f74cf12799d4475ae867dc61eb60e1ba2e
 acestream://df7d145fcaf0566db4098d2f10236185d92bc9fd
 #EXTINF:-1 group-title="M+ LIGA DE CAMPEONES" tvg-id="0", M+ Liga Campeones 13 1080P
 acestream://bdfe9ebe62d690c1b13eef4346d72e618cfbe804
+***********************M+ COPA DE CAMPEONES******************************************
+#EXTINF:-1 group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 1080P
+acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
+#EXTINF:-1 group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 2 1080P
+acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
+#EXTINF:-1 group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 3 1080P
+acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
+#EXTINF:-1 group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 4 1080P
+acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
+#EXTINF:-1 group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 5 1080P
+acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
+#EXTINF:-1 group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 6 1080P
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
+#EXTINF:-1 group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 7 1080P
+acestream://070f82d6443a52962d6a2ed9954c979b29404932
 ************** LALIGA TV HYPERMOTION***********************
 #EXTINF:-1 group-title="LALIGA TV HYPERMOTION" tvg-id="0", LaLiga Smartbank 1080P
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 group-title="LALIGA TV HYPERMOTION" tvg-id="0", LaLiga Smartbank 2 1080P
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 group-title="LALIGA TV HYPERMOTION" tvg-id="0", LaLiga Smartbank 3 1080P
+************** M+ DEPORTES***********************************
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-id="0", M+ Copa del Rey
 acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 ****************** M+ GOLF*********************************
 #EXTINF:-1 group-title="M+ GOLF" tvg-id="0", M+ Golf
@@ -87,12 +104,10 @@ acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
 ***************M+ GENERICOS*****************************
 #EXTINF:-1 group-title="M+ GENERICOS" tvg-id="0", #VAMOS 
 acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
-#EXTINF:-1 group-title="M+ GENERICOS", Movistar Seriesmania
-http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13268.m3u8
-#EXTINF:-1 group-title="M+ GENERICOS", Movistar CINEDOC&ROLL
-http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13281.m3u8
-#EXTINF:-1 group-title="M+ GENERICOS", Movistar Drama
-http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/13284.m3u8
+#EXTINF:-1 group-title="M+ GENERICOS" tvg-id="0", #Ellas
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
+#EXTINF:-1 group-title="M+ GENERICOS" tvg-id="0", MOVISTAR+ 
+acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 ******************EUROSPORT^*****************************
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="0", EuroSport 1
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
