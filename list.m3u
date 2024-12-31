@@ -6,16 +6,37 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
 https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TDT" tvg-id="0", RTVE24
 https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="24h" tvg-id="24h.es" group-title="Spain",24h
+#EXTINF:-1 group-title="TDT" tvg-id="0",24h
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:-1 tvg-name="tdp" tvg-id="tdp.es" group-title="Spain",tdp
+#EXTINF:-1 group-title="TDT" tvg-id="0",tdp
 https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
-#EXTINF:-1 tvg-name="clan" tvg-id="clan.es" group-title="Spain",clan
+#EXTINF:-1 group-title="TDT" tvg-id="0",clan
 https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
-#EXTINF:-1 tvg-name="Telemadrid" tvg-id="Telemadrid.es" group-title="Spain",Telemadrid
+#EXTINF:-1 group-title="TDT" tvg-id="0",Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
-#EXTINF:-1 tvg-name="Canal Sur Andalucía" tvg-id="CanalSurAndalucia.es" group-title="Spain",Canal Sur Andalucía
+#EXTINF:-1 group-title="TDT" tvg-id="0",Canal Sur Andalucía
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0",Divinity
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0", Antena 3
+https://pull2b-i.akamaized.net/antena3/bitrate_4.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0", Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0", Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0", La Sexta
+https://pull2c-i.akamaized.net/lasexta/bitrate_4.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0", NOVA
+https://pull1c-i.akamaized.net/nova/bitrate_4.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0", Neox
+https://pull2b-i.akamaized.net/neox/bitrate_4.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0", Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0",Atreseries 
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
 ************************* M+ LA LIGA********************************
 #EXTINF:-1 group-title="MOVISTAR LA LIGA" tvg-id="0", M. LaLiga 1080P 
 acestream://94d34491106e00394835c8cb68aa94481339b53f
