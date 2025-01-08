@@ -18,12 +18,14 @@ acestream://110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 group-title="DAZN LA LIGA" tvg-id="0", DAZN LaLiga2 1080P
 acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 group-title="DAZN LA LIGA" tvg-id="0", DAZN LaLiga3 1080P
-************************DAZN F1*****************************************
+************************DAZN F1 Y MOTOGP*****************************************
 acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
-#EXTINF:-1 group-title="DAZN F1" tvg-id="0", DAZN F1 1080P
+#EXTINF:-1 group-title="DAZN F1 Y MOTOGP" tvg-id="0", DAZN F1 1080P
 acestream://d6281d4e6310269b416180442a470d23a4a99dc9
-#EXTINF:-1 group-title="DAZN F1" tvg-id="0", DAZN F1 1080P
+#EXTINF:-1 group-title="DAZN F1 Y MOTOGP" tvg-id="0", DAZN F1 1080P
 acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 group-title="DAZN F1 Y MOTOGP" tvg-id="0", Moto GP  HD
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8
 **************** M+ LIGA DE CAMPEONES*********************
 #EXTINF:-1 group-title="M+ LIGA DE CAMPEONES" tvg-id="0", M+ Liga Campeones 1080P
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
