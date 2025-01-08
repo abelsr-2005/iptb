@@ -1,23 +1,4 @@
 #EXTM3U
-*********************TDT**************************
-#EXTINF:-1 group-title="TDT" tvg-id="0", La 1 
-https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="TDT" tvg-id="0", La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="TDT" tvg-id="0",24h
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:-1 group-title="TDT" tvg-id="0",clan
-https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
-#EXTINF:-1 group-title="TDT" tvg-id="0",Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
-#EXTINF:-1 group-title="TDT" tvg-id="0",Canal Sur Andalucía
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
-#EXTINF:-1 group-title="TDT" tvg-id="0", Antena 3
-https://pull2b-i.akamaized.net/antena3/bitrate_4.m3u8
-#EXTINF:-1 group-title="TDT" tvg-id="0", Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1 group-title="TDT" tvg-id="0", Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 ************************* M+ LA LIGA********************************
 #EXTINF:-1 group-title="MOVISTAR LA LIGA" tvg-id="0", M. LaLiga 1080P 
 acestream://94d34491106e00394835c8cb68aa94481339b53f
@@ -127,3 +108,27 @@ acestream://7cf437be950f3525e735be57c63f7824cab822c9
 acestream://ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 #EXTINF:-1 group-title="EVENTOS DE PAGO" tvg-id="0", PPVP4
 acestream://7cf437be950f3525e735be57c63f7824cab822c9
+**************TOROS***************
+#EXTINF:-1 group-title="TOROS" tvg-id="0", ONETORO OPCION 1
+acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
+#EXTINF:-1 group-title="TOROS" tvg-id="0",ONETORO OPCION 2
+acestream://ee38ea1806129de000bd7925a5d52554d70bb560
+*********************TDT**************************
+#EXTINF:-1 group-title="TDT" tvg-id="0", La 1 
+https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="TDT" tvg-id="0", La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="TDT" tvg-id="0",24h
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0",clan
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0",Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0",Canal Sur Andalucía
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0", Antena 3
+https://pull2b-i.akamaized.net/antena3/bitrate_4.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0", Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 group-title="TDT" tvg-id="0", Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
