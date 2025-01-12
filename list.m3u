@@ -98,7 +98,7 @@ acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
 acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 #EXTINF:-1 group-title="M+ GENERICOS" tvg-id="0", #Ellas
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title="M+ GENERICOS" tvg-id="0", MOVISTAR+ 
+#EXTINF:-1 group-title="M+ GENERICOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-id="0", MOVISTAR+ 
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 group-title="EUROSPORT" tvg-id="0", EuroSport 1
