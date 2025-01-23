@@ -12,21 +12,11 @@ acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="MOVISTAR LA LIGA" tvg-id="M+ LaLiga TV 4", M. LaLiga 4 
 acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LA LIGA" tvg-id="DAZN LaLiga HD", DAZN LaLiga1 
-acestream://110d441ddc9713a7452588770d2bc85504672f47
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN LA LIGA" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga2 
-acestream://97ba38d47680954be40e48bd8f43e17222fefecb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png" group-title="DAZN LA LIGA" tvg-id="DAZN LaLiga 3 HD", DAZN LaLiga3 
-acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN F1 Y MOTOGP" tvg-id="DAZN F1 HD", DAZN F1 
-acestream://d6281d4e6310269b416180442a470d23a4a99dc9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN F1 Y MOTOGP" tvg-id="DAZN F1 HD", DAZN F1 
-acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD", M+ Liga Campeones 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD", M+ Liga Campeones OPCION 1
+acestream://a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD", M+ Liga Campeones OPCION 2
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD", M+ Liga Campeones 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD", M+ Liga Campeones OPCION 3
 acestream://775abd8697715c48a357906d40734ccd2a10513c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga Campeones 2 
 acestream://c070cdb701fc46bb79d17568d99fc64620443d63
@@ -53,57 +43,78 @@ acestream://df7d145fcaf0566db4098d2f10236185d92bc9fd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" group-title="M+ LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 13 HD", M+ Liga Campeones 13 
 acestream://bdfe9ebe62d690c1b13eef4346d72e618cfbe804
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ COPA DE CAMPEONES" tvg-id tvg-id="M+ Deportes", M. Deportes 
 acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 2", M. Deportes 2 
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 3 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 3", M. Deportes 3 
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 4 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="M+ COPA DE CAMPEONES" tvg-id=M+ Deportes 4"", M. Deportes 4 
 acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 5 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 5", M. Deportes 5 
 acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 6 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 6", M. Deportes 6 
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" group-title="M+ COPA DE CAMPEONES" tvg-id="0", M. Deportes 7 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 7", M. Deportes 7 
 acestream://070f82d6443a52962d6a2ed9954c979b29404932
 
-#EXTINF:-1 group-title="LALIGA TV HYPERMOTION" tvg-id="0", LaLiga Smartbank 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="LALIGA TV HYPERMOTION" tvg-id="LaLiga TV Hypermotion HD", LaLiga Smartbank 
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 group-title="LALIGA TV HYPERMOTION" tvg-id="0", LaLiga Smartbank 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="LALIGA TV HYPERMOTION" tvg-id="LaLiga TV Hypermotion 2", LaLiga Smartbank 2 
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
-#EXTINF:-1 group-title="LALIGA TV HYPERMOTION" tvg-id="0", LaLiga Smartbank 3 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" group-title="LALIGA TV HYPERMOTION" tvg-id="LaLiga TV Hypermotion 3", LaLiga Smartbank 3 
 
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-id="0", M+ Deportes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes HD", M+ Deportes
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-id="0", M+ Deportes 2
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 2 HD", M+ Deportes 2
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-id="0", M+ Deportes 3
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 3 HD", M+ Deportes 3
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-id="0", M+ Deportes 4
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 4 HD", M+ Deportes 4
 acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-id="0", M+ Deportes 5
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 5 HD", M+ Deportes 5
 acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-id="0", M+ Deportes 6
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 6 HD", M+ Deportes 6
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 group-title="M+ DEPORTES" tvg-id="0", M+ Deportes 7
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 7 HD", M+ Deportes 7
 acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 
-#EXTINF:-1 group-title="M+ GOLF" tvg-id="0", M+ Golf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LA LIGA" tvg-id="DAZN LaLiga HD", DAZN LaLiga1 
+acestream://110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN LA LIGA" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga2 
+acestream://97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png" group-title="DAZN LA LIGA" tvg-id="DAZN LaLiga 3 HD", DAZN LaLiga3 
+acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="DAZN" tvg-id="DAZN 2 HD", DAZN 2
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" group-title="DAZN" tvg-id="DAZN 3 HD", DAZN 3
+acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" group-title="DAZN" tvg-id="DAZN 4 HD", DAZN 4
+acestream://4e83f23945ab3e43982045f88ec31daaa4683102
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN F1 Y MOTOGP" tvg-id="DAZN F1 HD", DAZN F1 
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN F1 Y MOTOGP" tvg-id="DAZN F1 HD", DAZN F1 
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="M+ GOLF" tvg-id="M+ Golf HD", M+ Golf
 acestream://f41f1096862767289620be5bd85727f946a434db
-#EXTINF:-1 group-title="M+ GOLF" tvg-id="0", M+ Golf 2
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="M+ GOLF" tvg-id="M+ Golf 2 HD", M+ Golf 2
 acestream://e258e75e0e802afa5fcc53d46b47d8801a254ad5
 
-#EXTINF:-1 group-title="M+ GENERICOS" tvg-id="0", #VAMOS 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="M+ GENERICOS" tvg-id="M+ Vamos HD", #VAMOS 
 acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
-#EXTINF:-1 group-title="M+ GENERICOS" tvg-id="0", #Ellas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" group-title="M+ GENERICOS" tvg-id="M+ Ellas Vamos HD", #Ellas
 acestream://d8c2ed470e847154a88f011137cc206319f6bed5
-#EXTINF:-1 group-title="M+ GENERICOS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-id="0", MOVISTAR+ 
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="M+ GENERICOS" tvg-id="Movistar Plus+ HD", MOVISTAR+ 
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
-#EXTINF:-1 group-title="EUROSPORT" tvg-id="0", EuroSport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="EUROSPORT" tvg-id="Eurosport 1 HD", EuroSport 1
 acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 group-title="EUROSPORT" tvg-id="0", EuroSport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="EUROSPORT" tvg-id="Eurosport 2 HD", EuroSport 2
 acestream://98784fa0714190de289f42eb5b84e405df7e685a
 
 #EXTINF:-1 group-title="RFEF FEF TV" tvg-id="0", RFEF FEF 1
@@ -120,15 +131,6 @@ acestream://ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 #EXTINF:-1 group-title="EVENTOS DE PAGO" tvg-id="0", PPVP4
 acestream://7cf437be950f3525e735be57c63f7824cab822c9
 
-#EXTINF:-1 group-title="TOROS" tvg-id="0", OPCION 1
-acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
-#EXTINF:-1 group-title="TOROS" tvg-id="0", OPCION 2
-acestream://ee38ea1806129de000bd7925a5d52554d70bb560
-#EXTINF:-1 group-title="TOROS" tvg-id="0", OPCION 3
-acestream://90acb11adf72f4b0d8110c77480eb2a15d9a1333
-#EXTINF:-1 tvg-name="ONETORO TV FHD group-title="TOROS" , OPCION 4
-https://65.108.40.211:2096/live/olentzero/cufQvgpNrKBE/279.ts
-
 #EXTINF:-1 group-title="NBA" tvg-id="0", NBA TV
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 group-title="NBA" tvg-id="0", NBA TV 2
@@ -141,6 +143,8 @@ acestream://7eb0d58e77fc1e5f95bce839a7ae66c9369d057b
 #EXTINF:-1 group-title="UFC" tvg-id="0", UFC
 acestream://72a814d15884761ee3d0dcbc311ccf5c1676df80
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="CANALES DEPORTIVOS" tvg-id="Rally TV", RALLY TV
+acestream://0b8b313c333e7b61631f7bbc3239b3fba9c345ec
 
-
-.
+#EXTINF:-1 group-title="toros", TOROS HD
+http://185.228.155.93:8000/play/a02j/index.m3u8
