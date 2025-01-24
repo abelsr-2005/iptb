@@ -43,19 +43,6 @@ acestream://df7d145fcaf0566db4098d2f10236185d92bc9fd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" group-title="M+ LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 13 HD", M+ Liga Campeones 13 
 acestream://bdfe9ebe62d690c1b13eef4346d72e618cfbe804
 
-
-• Copa 1080 
-acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d 
-• Copa 1080 plus 
-acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e 
-• Copa 1080 MultiAudio 
-acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281 
-• Copa 1080 
-acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d 
-• Copa 720 
-acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ COPA DE CAMPEONES" tvg-id tvg-id="M+ Deportes", M+ Copa OPCION 1
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 2", M+ Copa OPCION 2 
@@ -86,17 +73,17 @@ acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes HD", M+ Deportes
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 2 HD", M+ Deportes 2
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 2 HD", M+ Deportes 2
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 3 HD", M+ Deportes 3
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 3 HD", M+ Deportes 3
 acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 4 HD", M+ Deportes 4
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 4 HD", M+ Deportes 4
 acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 5 HD", M+ Deportes 5
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 5 HD", M+ Deportes 5
 acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 6 HD", M+ Deportes 6
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 6 HD", M+ Deportes 6
 acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 7 HD", M+ Deportes 7
+#EXTINF:-1 tvg-id="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes 7 HD", M+ Deportes 7
 acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LA LIGA" tvg-id="DAZN LaLiga HD", DAZN LaLiga1 
