@@ -43,26 +43,46 @@ acestream://df7d145fcaf0566db4098d2f10236185d92bc9fd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" group-title="M+ LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 13 HD", M+ Liga Campeones 13 
 acestream://bdfe9ebe62d690c1b13eef4346d72e618cfbe804
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ COPA DE CAMPEONES" tvg-id tvg-id="M+ Deportes", M. Deportes 
-acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 2", M. Deportes 2 
-acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 3", M. Deportes 3 
-acestream://571bff4d12b1791eb99dbf20bec38e630693a6a3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="M+ COPA DE CAMPEONES" tvg-id=M+ Deportes 4"", M. Deportes 4 
-acestream://b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 5", M. Deportes 5 
-acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 6", M. Deportes 6 
-acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 7", M. Deportes 7 
-acestream://070f82d6443a52962d6a2ed9954c979b29404932
+
+• Copa 1080 
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d 
+• Copa 1080 plus 
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e 
+• Copa 1080 MultiAudio 
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281 
+• Copa 1080 
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d 
+• Copa 720 
+acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ COPA DE CAMPEONES" tvg-id tvg-id="M+ Deportes", M+ Copa OPCION 1
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 2", M+ Copa OPCION 2 
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 3", M+ Copa OPCION 3
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="M+ COPA DE CAMPEONES" tvg-id=M+ Deportes 4"", M+ Copa OPCION 4
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="M+ COPA DE CAMPEONES" tvg-id="M+ Deportes 5", M+ Copa 720P 
+acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="LALIGA TV HYPERMOTION" tvg-id="LaLiga TV Hypermotion HD", LaLiga Smartbank 
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="LALIGA TV HYPERMOTION" tvg-id="LaLiga TV Hypermotion 2", LaLiga Smartbank 2 
 acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" group-title="LALIGA TV HYPERMOTION" tvg-id="LaLiga TV Hypermotion 3", LaLiga Smartbank 3 
+acestream://424c89c7c0f251051269b578f40d13d192cf2c2d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%204.png" group-title="LALIGA TV HYPERMOTION" tvg-id="LaLiga TV Hypermotion 4", LaLiga Smartbank 4 
+acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png" group-title="LALIGA TV HYPERMOTION" tvg-id="LaLiga TV Hypermotion 5", LaLiga Smartbank 5 
+acestream://a1146358aa50c99c887108b17f62f9264186a16a 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%206.png" group-title="LALIGA TV HYPERMOTION" tvg-id="LaLiga TV Hypermotion 6", LaLiga Smartbank 6 
+acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%207.png" group-title="LALIGA TV HYPERMOTION" tvg-id="LaLiga TV Hypermotion 7", LaLiga Smartbank 7
+acestream://446e73a22582921393b020ed08b768ad8e14d754 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%208.png" group-title="LALIGA TV HYPERMOTION" tvg-id="LaLiga TV Hypermotion 8", LaLiga Smartbank 8
+acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="M+ DEPORTES" tvg-id="M+ Deportes HD", M+ Deportes
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
@@ -147,4 +167,4 @@ acestream://72a814d15884761ee3d0dcbc311ccf5c1676df80
 acestream://0b8b313c333e7b61631f7bbc3239b3fba9c345ec
 
 #EXTINF:-1 group-title="toros", TOROS HD
-http://185.228.155.93:8000/play/a02j/index.m3u8
+acestream://f763ab71f6f646e6c993f37e237be97baf2143ef 
