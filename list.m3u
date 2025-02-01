@@ -12,16 +12,10 @@ acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="MOVISTAR LA LIGA" tvg-id="M+ LaLiga TV 4", M. LaLiga 4 
 acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD", M+ Liga Campeones OPCION 1
-acestream://a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD", M+ Liga Campeones OPCION 2
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD", M+ Liga Campeones OPCION 3
 acestream://775abd8697715c48a357906d40734ccd2a10513c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1080 Multiaudio Especial 29/01/2025
-acestream://52cf67f7fccf4d9d4e1c9c31620f1b139be3f5b7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1080 Multiaudio Especial 29/01/2025
-acestream://5e0557c0a486f68b5b108c0d976dcfae922e2947
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga Campeones 2 
 acestream://c070cdb701fc46bb79d17568d99fc64620443d63
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="M+ LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD", M+ Liga Campeones 3 
@@ -150,11 +144,12 @@ acestream://e72d03fb9694164317260f684470be9ab781ed95
 acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
 
 #EXTINF:-1 group-title="UFC" tvg-id="0", UFC
-acestream://1ec0f6550a17ad00cd7ba517b1f09886fb635ead
+acestream://2d4b53402ff6158ec5aa4b38a80a773b5e00da0d
 #EXTINF:-1 group-title="UFC" tvg-id="0", UFC
 acestream://7eb0d58e77fc1e5f95bce839a7ae66c9369d057b
 #EXTINF:-1 group-title="UFC" tvg-id="0", UFC
 acestream://72a814d15884761ee3d0dcbc311ccf5c1676df80
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="CANALES DEPORTIVOS" tvg-id="Rally TV", RALLY TV
 acestream://0b8b313c333e7b61631f7bbc3239b3fba9c345ec
