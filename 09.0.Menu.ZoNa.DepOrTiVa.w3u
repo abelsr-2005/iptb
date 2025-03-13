@@ -1,0 +1,60 @@
+{
+"name": "ZoNa DepOrTiVa",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "https://af1c1onados.vercel.app/09.0.Menu.ZoNa.DepOrTiVa.w3u",
+"telegram": "Lista_AF1CIONADOS",
+"info": "Lista_AF1CIONADOS",
+"groups":
+    [
+        {
+         "name": "zOna DepORtivA",
+         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+         "url": "https://af1c1onados.vercel.app/Zona.Deportiva.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "zOna DepORtivA 2",
+         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+         "url": "https://af1c1onados.vercel.app/Zona.Deportiva.2.m3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "zOna DepORtivA 3",
+         "image": "https://i.postimg.cc/1tVHcpVb/sport-new.png",
+         "url": "https://af1c1onados.vercel.app/Zona.Deportiva.3.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "DepORteS 24/7",
+         "image": "https://i.postimg.cc/V6JhbK6z/24-7-new.png",
+         "url": "https://raw.githubusercontent.com/michael1900/omg/refs/heads/main/onlyevents.m3u8",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "NBA StREamS",
+         "image": "https://i.postimg.cc/C58MjdLB/logonba-new.png",
+         "url": "https://af1c1onados.vercel.app/09.1.Deportes.NBA.StREamS.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "NHL StREamS",
+         "image": "https://i.postimg.cc/Y91yYHB2/nhl-logo-jersey.png",
+         "url": "https://af1c1onados.vercel.app/09.3.Deportes.NHL.StREamS.w3u",
+         "info":"",
+         "import": false
+        },
+        {
+         "name": "MLB StREamS",
+         "image": "https://i.postimg.cc/SKFvL14v/MLB.png",
+         "url": "https://af1c1onados.vercel.app/09.4.Deportes.MLB.Stream.w3u",
+         "info":"",
+         "import": false
+        }
+    ]
+}
