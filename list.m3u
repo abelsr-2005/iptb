@@ -158,14 +158,3 @@ acestream://e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="CANALES DEPORTIVOS" tvg-id="Rally TV", RALLY TV
 acestream://0b8b313c333e7b61631f7bbc3239b3fba9c345ec
-
-#EXTINF:-1 group-title="toros", ONETORO OPCION 1
-75af1643ef22377d53e1a1faa984c0f9f5374249 
-#EXTINF:-1 group-title="toros", ONETORO OPCION 2
-acestream://ee38ea1806129de000bd7925a5d52554d70bb560
-#EXTINF:-1 group-title="toros", ONETORO OPCION 3
-acestream://90acb11adf72f4b0d8110c77480eb2a15d9a1333
-#EXTINF:-1 group-title="toros", ONETORO OPCION 4
-75af1643ef22377d53e1a1faa984c0f9f5374249
-#EXTINF:-1 group-title="toros", ONETORO OPCION 5
-acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
