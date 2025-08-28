@@ -10,9 +10,6 @@ acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/color/ll1.png" group-title="MOVISTAR LA LIGA",M. LaLiga 1080 MultiAudio
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
 
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/color/ll1.png" group-title="MOVISTAR LA LIGA",M. LaLiga 720
-acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58
-
 #EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/color/ll1.png" group-title="MOVISTAR LA LIGA",M. LaLiga 2 1080
 acestream://51b363b1c4d42724e05240ad068ad219df8042ec
 
